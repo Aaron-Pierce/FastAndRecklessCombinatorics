@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1618149448 "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.tex" "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.pdf" "combinatorics" 1618149448
-  "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.aux" 1618149448 32 1b174032087fb90900fa6203d3bb0a7e ""
-  "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.tex" 1618149446 25682 e082b9ba0d6ee5bff2d9c850eb78887b ""
+["pdflatex"] 1618149477 "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.tex" "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.pdf" "combinatorics" 1618149478
+  "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.aux" 1618149478 32 1b174032087fb90900fa6203d3bb0a7e ""
+  "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.tex" 1618149477 25683 98edf268b83b8208646c870cc85df6c9 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1607249373 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1607249373 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1607249373 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -146,11 +146,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1607249373 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1616201752 4885835 225b430335ea75120e4d14f95280dfb9 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1616201741 2635854 c88e57482f869a9328fd2969fc390ac1 ""
-  "combinatorics.aux" 1618149448 32 1b174032087fb90900fa6203d3bb0a7e "pdflatex"
-  "combinatorics.tex" 1618149446 25682 e082b9ba0d6ee5bff2d9c850eb78887b ""
+  "combinatorics.aux" 1618149478 32 1b174032087fb90900fa6203d3bb0a7e "pdflatex"
+  "combinatorics.tex" 1618149477 25683 98edf268b83b8208646c870cc85df6c9 ""
   (generated)
-  "combinatorics.aux"
-  "combinatorics.pdf"
-  "combinatorics.log"
-  "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.log"
   "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.pdf"
+  "combinatorics.aux"
+  "/home/aaron/Projects/BasicCombinatoricsQuickly/combinatorics.log"
+  "combinatorics.log"
+  "combinatorics.pdf"
